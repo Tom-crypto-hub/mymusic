@@ -1,10 +1,8 @@
 package com.martinwj.mymusic.controller.admin.singer;
 
 import com.martinwj.mymusic.entity.Singer;
-import com.martinwj.mymusic.entity.Song;
 import com.martinwj.mymusic.service.SingerService;
 import com.martinwj.mymusic.service.impl.SingerServiceImpl;
-import com.martinwj.mymusic.util.DateUtils;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
